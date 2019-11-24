@@ -45,6 +45,7 @@ li a {
 li a:hover {
     background-color:#ffffff;
     color:#291f1e;
+    border-bottom: 3px solid #291f1e;
 }
 
 footer {
