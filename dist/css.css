@@ -110,3 +110,22 @@ article {
     width:300px;
 }
 
+ /* Boxes Support */
+ #boxessupport{
+    margin-top:20px;
+}
+  
+#boxessupport .supportbox{
+    float:left;
+    text-align: center;
+    width:30%;
+    height:600px;
+    padding:10px;
+    background-color:#ffffff;
+    margin:10px;
+}
+  
+#boxessupport .supportbox img{
+    width:300px;
+}
+
