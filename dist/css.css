@@ -1,5 +1,5 @@
 html, body {
-    background-color: #477998;
+    background-color: #ffffff;
     height:100%;
     width:100%;
     margin:0px;
@@ -21,8 +21,8 @@ article {
 
 ul {
     list-style-type:none;
-    background-color:#074f57;
-    color:white;
+    background-color: #ffffff;
+    color: #000000;
     overflow:hidden;
     margin:30;
     padding:30;
@@ -48,11 +48,11 @@ li a:hover {
 }
 
 footer {
-    background-color:#074f57;
+    background-color:#ffffff;
     padding: 30px;
     margin-bottom:5px;
     margin-top:100px;
-    color:white;
+    color:#000000;
 }
 
 hr {
