@@ -137,5 +137,6 @@ form {
     border-width: 1px;
     padding:10px;
     width: 510px;
+    float:right;
 }
 
