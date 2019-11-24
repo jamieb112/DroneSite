@@ -22,7 +22,7 @@ article {
 ul {
     list-style-type:none;
     background-color: #ffffff;
-    color: #000000;
+    color: #291f1e;
     overflow:hidden;
     margin:30;
     padding:30;
@@ -37,13 +37,13 @@ li a {
     text-align:center;
     padding:30px;
     text-decoration:none;
-    color:white;
+    color:#291f1e;
     font-size: 15px;
     font-weight: bold;   
 }
 
 li a:hover {
-    background-color:#c4d6b0;
+    background-color:#ffffff;
     color:#291f1e;
 }
 
@@ -64,7 +64,7 @@ hr {
 }
 
 article {
-    background-color:#477998;
+    background-color:#ffffff;
     margin-left:50px;
     margin-right:50px;
 }
@@ -98,7 +98,7 @@ article {
     width:30%;
     height:600px;
     padding:10px;
-    background-color:#477998;
+    background-color:#ffffff;
     margin:10px;
 }
   
