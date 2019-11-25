@@ -145,6 +145,8 @@ article {
     padding:10px;
     background-color:#ffffff;
     margin:10px;
+    border-style:solid;
+    border-width: 1px;
 }
   
 #boxespillars .pillarsbox img{
