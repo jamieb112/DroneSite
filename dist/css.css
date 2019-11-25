@@ -138,6 +138,7 @@ article {
 }
   
 #boxespillars .pillarsbox{
+    align-content: center;
     float:left;
     text-align: center;
     width:30%;
