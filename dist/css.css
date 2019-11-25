@@ -95,7 +95,6 @@ article {
   /* Boxes */
 #boxes{
     margin-top:20px;
-    padding-left:25%;
 }
   
 #boxes .box{
@@ -130,6 +129,25 @@ article {
 }
   
 #boxessupport .supportbox img{
+    width:300px;
+}
+
+ /* Boxes Pillars */
+ #boxespillars{
+    margin-top:20px;
+}
+  
+#boxespillars .pillarsbox{
+    float:left;
+    text-align: center;
+    width:30%;
+    height:200px;
+    padding:10px;
+    background-color:#ffffff;
+    margin:10px;
+}
+  
+#boxespillars .pillarsbox img{
     width:300px;
 }
 
